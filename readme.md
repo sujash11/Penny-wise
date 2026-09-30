@@ -30,5 +30,3 @@ The Personal Expense Tracker is a modular Command Line Interface (CLI) applicati
 5. Select option `3` to verify the total sum calculates correctly.
 6. Select option `4` to successfully terminate the application loop.
 
-## Screenshots
-*(Optional: Add screenshots of the CLI menu and output here prior to final submission)*
